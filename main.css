@@ -1,7 +1,10 @@
 body {
     background: gray;
+    font-size: 20px;
+    font-family: cursive;
 }
 h1 {
     background: violet;
     color: orange;
+    border-bottom: 3px solid red;
 }
